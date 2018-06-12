@@ -1,0 +1,13 @@
+STEPHENs-MacBook-Air:oblig3 KIMOGOL$ java Oblig3 needle.txt haystack.txt
+20:   uio
+63:   uio
+77:   uio
+93:   ufo
+100:   uio
+STEPHENs-MacBook-Air:oblig3 KIMOGOL$ javac Oblig3.java
+STEPHENs-MacBook-Air:oblig3 KIMOGOL$ java Oblig3 needle1.txt haystack1.txt
+0:   gbjc
+20:   kblc
+30:   hbnc
+41:   kbmc
+STEPHENs-MacBook-Air:oblig3 KIMOGOL$
